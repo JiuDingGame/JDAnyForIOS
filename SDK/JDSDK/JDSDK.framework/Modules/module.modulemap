@@ -1,0 +1,6 @@
+framework module JDSDK {
+  umbrella header "JDSDK.h"
+
+  export *
+  module * { export * }
+}

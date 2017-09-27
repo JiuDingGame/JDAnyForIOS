@@ -1,0 +1,6 @@
+framework module JDAnySDK {
+  umbrella header "JDAnySDK.h"
+
+  export *
+  module * { export * }
+}
